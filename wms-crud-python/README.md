@@ -132,7 +132,7 @@ pip install tabulate
 ### 2. Run the Program
 
 ```bash
-python WMS_Capstone_ProjectM1.py
+python warehouse_management_system.py
 ```
 
 ---
